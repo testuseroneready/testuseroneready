@@ -5,11 +5,11 @@
 
 ### My skills:
 *HARD:*
-- [x] JS (almost mid, hard learn now)
-- [x] HTML (have experience in websites creation)
+- [x] JS
+- [x] HTML
 - [x] CSS (SCSS)
 - [x] Wordpress (creation from scratch and modification)
-- [x] PHP (jun+ level)
+- [x] PHP (work with Wordpress temlates)
 - [x] MySQL
 - [x] Git (beginner)
 - [x] English (B1 level)
@@ -26,8 +26,7 @@
 
 ### My goals:
 - Improve JS skills
-- Learn React
-- Learn Vue/Angular (basic+ level)
+- Learn React/Vue/Angular
 - Learn English to B2 level
 - Find new job as webdev
 
